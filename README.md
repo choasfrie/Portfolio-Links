@@ -13,3 +13,11 @@ Binary, Hexadecimal calculator:
 
 [https://portfolio.bbbaden.ch/view/view.php?t=a86232820e7ad9353231](https://portfolio.bbbaden.ch/view/view.php?t=a86232820e7ad9353231)
 
+PHP Webshop
+
+[https://portfolio.bbbaden.ch/view/view.php?t=b417f4c7fcd5fe92b6c1](https://portfolio.bbbaden.ch/view/view.php?t=b417f4c7fcd5fe92b6c1)
+
+node.js Multiuser Chattingapp
+
+[https://portfolio.bbbaden.ch/view/view.php?t=bffd5c916a540cac5d5a](https://portfolio.bbbaden.ch/view/view.php?t=bffd5c916a540cac5d5a)
+
