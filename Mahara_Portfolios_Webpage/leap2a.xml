@@ -1,0 +1,3621 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:leap2="http://terms.leapspecs.org/"
+    xmlns:categories="http://wiki.leapspecs.org/2A/categories/"
+    xmlns:portfolio="https://portfolio.bbbaden.ch/export/leap/2261/1757520927/"
+    xmlns:mahara="https://wiki.mahara.org/wiki/Developer_Area/Import//Export/LEAP_Extensions"
+>
+    <leap2:version>http://www.leapspecs.org/2010-07/2A/</leap2:version>
+    <id>https://portfolio.bbbaden.ch/export/2261/1757520927</id>
+    <title>Mahara Leap2A Export for Alberto Manser, 2025/09/10 18:15</title>
+    <updated>2025-09-10T18:15:27+02:00</updated>
+    <generator uri="https://mahara.org/" version="2008122400">Mahara</generator>
+    <author>
+        <name>Alberto Manser</name>
+        <email>A.Manser.inf22@stud.bbbaden.ch</email>
+        <uri>portfolio:artefactinternal</uri>
+    </author>
+
+    <entry>
+        <title>LA 0120</title>
+        <id>portfolio:view35840</id>
+
+        <updated>2025-01-23T08:16:42+01:00</updated>
+        <published>2024-12-20T13:59:06+01:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div>Eine Weiterführung der mit PHP implementierten DVERGGAS Webseite</div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_221275"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_221275">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Aufgabenstellung
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_221275_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Die Aufgabenstellung war, ein selbst gewähltes Projekt in 7 Wochen zu implementieren. Unsere Gruppe hat sich dazu entschieden eine Webseite mit PHP zu erstellen, dazu hat Timo uns angeboten seine schon erstellte Webseite weiterzuführen.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_221276"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_221276">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Ziele
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_221276_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Meine 3 Ziele für dieses Projekt waren:</p>
+<ul>
+<li>
+<p>Geschützten Datentransfer mithilfe von PHP implementieren können</p>
+</li>
+<li>
+<p>Einen funktionierenden Warenkorb programmieren können</p>
+</li>
+<li>Erstellen eines funktionierenden Zahlungsformulars</li>
+</ul>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_221280"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_221280">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Produkt
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_221280_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p><strong>Beschreibung:</strong></p>
+<p>DVERGGAS ist ein Webshop mit Filterung, einer grossen Auswahl von Produkten, einem Warenkorb und einer Wunschliste, einem Check-out und weiteren anderen Funktionen. </p>
+<p><strong>Technische Details:</strong></p>
+<ul>
+<li>PHP</li>
+<li>Javascript</li>
+<li>HTML &amp; CSS</li>
+<li>MySQL</li>
+<li>Apache</li>
+</ul>
+<p>Die Webseite wurde hauptsächlich mit PHP erstellt, für das Lokale Hosten der Webseite haben wir XAMPP verwendet, in der Apache und MySQL gestartet werden müssen. Für das Design wurde in den jeweiligen PHP Dateien HTML verwendet, separat wurde ein Styles File erstellt. Für funktionales wurde Javascript verwendet.</p>
+<p><strong>Produktlink:</strong></p>
+<p>Das Produkt ist auf Github zu finden, der Link befindet sich am Ende dieser Page.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_221285"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_221285">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Demonstrationsvideo
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_221285_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Wegen fehlenden Speicherplatzes im Mahara finden sie das Demonstrationsvideo im folgenden Link:</p>
+<p><a class="anchor_af404b anchorUnderlineOnHover_af404b" title="https://sprudello.ch/index.php/s/wqMxsDNG6XjzX5S" href="https://sprudello.ch/index.php/s/wqMxsDNG6XjzX5S" target="_blank" rel="noreferrer noopener">https://sprudello.ch/index.php/s/wqMxsDNG6XjzX5S</a></p>
+<p> </p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_221287"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_221287">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Verifizierung
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_221287_target">
+        
+        
+            
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_221289"><div class="bt-image gridstackblock card card-secondary clearfix" id="user_blockinstance_221289">
+        
+        <div class="block-header d-none details-comments">
+    
+        
+        <a class="commentlink" href="#" title="">
+        
+            
+                <span class="icon icon-plus" title="Comments and details"></span>
+                Add comment
+                <span class="bh-margin-left icon icon-search-plus"></span>
+                Details
+            
+        
+        </a>
+    
+</div>
+
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Ziel 1
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_221289_target">
+        
+        
+            <div class="imageblock card-body">
+    <div class="image">
+        
+            <a class="modal_link" href="#">
+            
+                <img rel="leap2:has_part" href="portfolio:artefact129509" alt="" />
+            
+            </a>
+        
+    </div>
+</div>
+        
+    </div>
+</div>
+</div><div id="user_block_221311"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_221311">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Ziel 1
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_221311_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Hier wird das Passwort vor dem Datentransfer zur Datenbank encrypted, diese Zeile Code findet man in der Datei "Register.php" im Auth Ordner.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_221318"><div class="bt-image gridstackblock card card-secondary clearfix" id="user_blockinstance_221318">
+        
+        <div class="block-header d-none details-comments">
+    
+        
+        <a class="commentlink" href="#" title="">
+        
+            
+                <span class="icon icon-plus" title="Comments and details"></span>
+                Add comment
+                <span class="bh-margin-left icon icon-search-plus"></span>
+                Details
+            
+        
+        </a>
+    
+</div>
+
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Ziel 2
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_221318_target">
+        
+        
+            <div class="imageblock card-body">
+    <div class="image">
+        
+            <a class="modal_link" href="#">
+            
+                <img rel="leap2:has_part" href="portfolio:artefact129515" alt="" />
+            
+            </a>
+        
+    </div>
+</div>
+        
+    </div>
+</div>
+</div><div id="user_block_221327"><div class="bt-image gridstackblock card card-secondary clearfix" id="user_blockinstance_221327">
+        
+        <div class="block-header d-none details-comments">
+    
+        
+        <a class="commentlink" href="#" title="">
+        
+            
+                <span class="icon icon-plus" title="Comments and details"></span>
+                Add comment
+                <span class="bh-margin-left icon icon-search-plus"></span>
+                Details
+            
+        
+        </a>
+    
+</div>
+
+    
+    
+        
+    
+
+    <div class="no-heading block" id="user_blockinstance_221327_target">
+        
+        
+            <div class="imageblock card-body">
+    <div class="image">
+        
+            <a class="modal_link" href="#">
+            
+                <img rel="leap2:has_part" href="portfolio:artefact129516" alt="" />
+            
+            </a>
+        
+    </div>
+</div>
+        
+    </div>
+</div>
+</div><div id="user_block_221329"><div class="bt-image gridstackblock card card-secondary clearfix" id="user_blockinstance_221329">
+        
+        <div class="block-header d-none details-comments">
+    
+        
+        <a class="commentlink" href="#" title="">
+        
+            
+                <span class="icon icon-plus" title="Comments and details"></span>
+                Add comment
+                <span class="bh-margin-left icon icon-search-plus"></span>
+                Details
+            
+        
+        </a>
+    
+</div>
+
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Ziel 3
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_221329_target">
+        
+        
+            <div class="imageblock card-body">
+    <div class="image">
+        
+            <a class="modal_link" href="#">
+            
+                <img rel="leap2:has_part" href="portfolio:artefact129517" alt="" />
+            
+            </a>
+        
+    </div>
+</div>
+        
+    </div>
+</div>
+</div><div id="user_block_221331"><div class="bt-image gridstackblock card card-secondary clearfix" id="user_blockinstance_221331">
+        
+        <div class="block-header d-none details-comments">
+    
+        
+        <a class="commentlink" href="#" title="">
+        
+            
+                <span class="icon icon-plus" title="Comments and details"></span>
+                Add comment
+                <span class="bh-margin-left icon icon-search-plus"></span>
+                Details
+            
+        
+        </a>
+    
+</div>
+
+    
+    
+        
+    
+
+    <div class="no-heading block" id="user_blockinstance_221331_target">
+        
+        
+            <div class="imageblock card-body">
+    <div class="image">
+        
+            <a class="modal_link" href="#">
+            
+                <img rel="leap2:has_part" href="portfolio:artefact129518" alt="" />
+            
+            </a>
+        
+    </div>
+</div>
+        
+    </div>
+</div>
+</div><div id="user_block_221332"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_221332">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Reflexion
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_221332_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p><strong>Was lief gut?</strong></p>
+<p>Wir konnten trotzdem verwenden einer neuen Sprache in der Form von PHP die meisten User-Stories und Ziele erreichen, das Homeoffice funktionierte auch besonders gut, da wir uns im Voraus aufgeteilt haben und unsere eigenen Aufträge bearbeitet haben.</p>
+<p><strong>Was lief nicht gut?</strong></p>
+<p>Beim Verwenden von Git-Branches gab es einmal ein kleines Chaos da jemand auf dem Branch einer anderen Funktion gearbeitet hat und somit einige Dinge der Funktion geändert hat. Durch diese Änderung haben wir einiges an Zeit verloren, was ziemlich einfach verhinderbar wäre.</p>
+<p><strong>Verbesserungsvorschläge:</strong></p>
+<p>Bei diesem Chaos mit den Git-Branches hätte man lieber immer auf seinen respektiven Branches bleiben sollen und allen erklären können, wie Branches eigentlich funktionieren. Bei zukünftigen Projekten werde ich daher jedem kurz die Verwendung von Git-Branches abfragen und ggf. erklären.</p>
+<p><strong>Fazit:</strong></p>
+<p>Trotz der Verwendung von neuen Technologien und Sprachen haben wir uns sehr schnell daran gewöhnt und damit arbeiten können. Wir konnten ausserdem sehr gut im Team arbeiten und haben uns am ersten Tag des Realisierens gut organisieren können.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_221345"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_221345">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Referenzen
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_221345_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p><strong>KI:</strong></p>
+<p>Für Bugfixing und Problemsolving habe ich die Hilfe von Chat-GPT und Github Copilot verwendet.<br />Beispielsweise hat die Preview des Warenkorbes nicht funktioniert, was mit der Hilfe von diesen Chatbots gelöst wurde.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_221346"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_221346">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Links
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_221346_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p><strong>Github:</strong></p>
+<p><a href="https://github.com/timog06/Dverggas">https://github.com/timog06/Dverggas </a></p>
+<p><strong>Projektdokumentation:</strong></p>
+<p><a href="https://github.com/timog06/Dverggas/blob/main/Projektdokumentation2.md">https://github.com/timog06/Dverggas/blob/main/Projektdokumentation2.md</a></p>
+</div>
+
+
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="leap2:has_part" href="portfolio:artefact129518"/>
+        <link rel="leap2:has_part" href="portfolio:artefact129515"/>
+        <link rel="leap2:has_part" href="portfolio:artefact129516"/>
+        <link rel="leap2:has_part" href="portfolio:artefact129517"/>
+        <link rel="leap2:has_part" href="portfolio:artefact129509"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="portfolio" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Aufgabenstellung" mahara:positionx="0" mahara:positiony="0" mahara:height="25" mahara:width="6">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Die Aufgabenstellung war, ein selbst gew&amp;auml;hltes Projekt in 7 Wochen zu implementieren. Unsere Gruppe hat sich dazu entschieden eine Webseite mit PHP zu erstellen, dazu hat Timo uns angeboten seine schon erstellte Webseite weiterzuf&amp;uuml;hren.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Ziele" mahara:positionx="6" mahara:positiony="0" mahara:height="25" mahara:width="6">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Meine 3 Ziele f&amp;uuml;r dieses Projekt waren:&lt;\/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;\r\n&lt;p&gt;Gesch&amp;uuml;tzten Datentransfer mithilfe von PHP implementieren k&amp;ouml;nnen&lt;\/p&gt;\r\n&lt;\/li&gt;\r\n&lt;li&gt;\r\n&lt;p&gt;Einen funktionierenden Warenkorb programmieren k&amp;ouml;nnen&lt;\/p&gt;\r\n&lt;\/li&gt;\r\n&lt;li&gt;Erstellen eines funktionierenden Zahlungsformulars&lt;\/li&gt;\r\n&lt;\/ul&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Produkt" mahara:positionx="0" mahara:positiony="25" mahara:height="55" mahara:width="8">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;&lt;strong&gt;Beschreibung:&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;DVERGGAS ist ein Webshop mit Filterung, einer grossen Auswahl von Produkten, einem Warenkorb und einer Wunschliste, einem Check-out und weiteren anderen Funktionen.&amp;nbsp;&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Technische Details:&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;PHP&lt;\/li&gt;\r\n&lt;li&gt;Javascript&lt;\/li&gt;\r\n&lt;li&gt;HTML &amp;amp; CSS&lt;\/li&gt;\r\n&lt;li&gt;MySQL&lt;\/li&gt;\r\n&lt;li&gt;Apache&lt;\/li&gt;\r\n&lt;\/ul&gt;\r\n&lt;p&gt;Die Webseite wurde haupts&amp;auml;chlich mit PHP erstellt, f&amp;uuml;r das Lokale Hosten der Webseite haben wir XAMPP verwendet, in der Apache und MySQL gestartet werden m&amp;uuml;ssen. F&amp;uuml;r das Design wurde in den jeweiligen PHP Dateien HTML verwendet, separat wurde ein Styles File erstellt. F&amp;uuml;r funktionales wurde Javascript verwendet.&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Produktlink:&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;Das Produkt ist auf Github zu finden, der Link befindet sich am Ende dieser Page.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Demonstrationsvideo" mahara:positionx="8" mahara:positiony="25" mahara:height="54" mahara:width="4">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Wegen fehlenden Speicherplatzes im Mahara finden sie das Demonstrationsvideo im folgenden Link:&lt;\/p&gt;\r\n&lt;p&gt;&lt;a class=\&quot;anchor_af404b anchorUnderlineOnHover_af404b\&quot; title=\&quot;https:\/\/sprudello.ch\/index.php\/s\/wqMxsDNG6XjzX5S\&quot; href=\&quot;https:\/\/sprudello.ch\/index.php\/s\/wqMxsDNG6XjzX5S\&quot; target=\&quot;_blank\&quot; rel=\&quot;noopener\&quot;&gt;https:\/\/sprudello.ch\/index.php\/s\/wqMxsDNG6XjzX5S&lt;\/a&gt;&lt;\/p&gt;\r\n&lt;p&gt;&amp;nbsp;&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Verifizierung" mahara:positionx="0" mahara:positiony="80" mahara:height="8" mahara:width="12">
+                
+                    
+                    <mahara:text></mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="image" mahara:blocktitle="Ziel 1" mahara:positionx="0" mahara:positiony="88" mahara:height="20" mahara:width="6">
+                
+                    
+                    <mahara:artefactid>[&quot;portfolio:artefact129509&quot;]</mahara:artefactid>
+                    
+                
+                    
+                    <mahara:showdescription>[false]</mahara:showdescription>
+                    
+                
+                    
+                    <mahara:width>[&quot;&quot;]</mahara:width>
+                    
+                
+                    
+                    <mahara:retractable>[0]</mahara:retractable>
+                    
+                
+                    
+                    <mahara:retractedonload>[0]</mahara:retractedonload>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Ziel 1" mahara:positionx="6" mahara:positiony="88" mahara:height="18" mahara:width="6">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Hier wird das Passwort vor dem Datentransfer zur Datenbank encrypted, diese Zeile Code findet man in der Datei \&quot;Register.php\&quot; im Auth Ordner.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="image" mahara:blocktitle="Ziel 2" mahara:positionx="0" mahara:positiony="108" mahara:height="67" mahara:width="4">
+                
+                    
+                    <mahara:artefactid>[&quot;portfolio:artefact129515&quot;]</mahara:artefactid>
+                    
+                
+                    
+                    <mahara:showdescription>[false]</mahara:showdescription>
+                    
+                
+                    
+                    <mahara:width>[&quot;&quot;]</mahara:width>
+                    
+                
+                    
+                    <mahara:retractable>[0]</mahara:retractable>
+                    
+                
+                    
+                    <mahara:retractedonload>[0]</mahara:retractedonload>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="image" mahara:blocktitle="" mahara:positionx="4" mahara:positiony="108" mahara:height="67" mahara:width="8">
+                
+                    
+                    <mahara:artefactid>[&quot;portfolio:artefact129516&quot;]</mahara:artefactid>
+                    
+                
+                    
+                    <mahara:showdescription>[false]</mahara:showdescription>
+                    
+                
+                    
+                    <mahara:width>[&quot;&quot;]</mahara:width>
+                    
+                
+                    
+                    <mahara:retractable>[0]</mahara:retractable>
+                    
+                
+                    
+                    <mahara:retractedonload>[0]</mahara:retractedonload>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="image" mahara:blocktitle="Ziel 3" mahara:positionx="0" mahara:positiony="175" mahara:height="60" mahara:width="4">
+                
+                    
+                    <mahara:artefactid>[&quot;portfolio:artefact129517&quot;]</mahara:artefactid>
+                    
+                
+                    
+                    <mahara:showdescription>[false]</mahara:showdescription>
+                    
+                
+                    
+                    <mahara:width>[&quot;&quot;]</mahara:width>
+                    
+                
+                    
+                    <mahara:retractable>[0]</mahara:retractable>
+                    
+                
+                    
+                    <mahara:retractedonload>[0]</mahara:retractedonload>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="image" mahara:blocktitle="" mahara:positionx="4" mahara:positiony="175" mahara:height="60" mahara:width="8">
+                
+                    
+                    <mahara:artefactid>[&quot;portfolio:artefact129518&quot;]</mahara:artefactid>
+                    
+                
+                    
+                    <mahara:showdescription>[false]</mahara:showdescription>
+                    
+                
+                    
+                    <mahara:width>[&quot;&quot;]</mahara:width>
+                    
+                
+                    
+                    <mahara:retractable>[0]</mahara:retractable>
+                    
+                
+                    
+                    <mahara:retractedonload>[0]</mahara:retractedonload>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Reflexion" mahara:positionx="0" mahara:positiony="235" mahara:height="47" mahara:width="12">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;&lt;strong&gt;Was lief gut?&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;Wir konnten trotzdem verwenden einer neuen Sprache in der Form von PHP die meisten User-Stories und Ziele erreichen, das Homeoffice funktionierte auch besonders gut, da wir uns im Voraus aufgeteilt haben und unsere eigenen Auftr&amp;auml;ge bearbeitet haben.&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Was lief nicht gut?&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;Beim Verwenden von Git-Branches gab es einmal ein kleines Chaos da jemand auf dem Branch einer anderen Funktion gearbeitet hat und somit einige Dinge der Funktion ge&amp;auml;ndert hat. Durch diese &amp;Auml;nderung haben wir einiges an Zeit verloren, was ziemlich einfach verhinderbar w&amp;auml;re.&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Verbesserungsvorschl&amp;auml;ge:&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;Bei diesem Chaos mit den Git-Branches h&amp;auml;tte man lieber immer auf seinen respektiven Branches bleiben sollen und allen erkl&amp;auml;ren k&amp;ouml;nnen, wie Branches eigentlich funktionieren. Bei zuk&amp;uuml;nftigen Projekten werde ich daher jedem kurz die Verwendung von Git-Branches abfragen und ggf. erkl&amp;auml;ren.&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Fazit:&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;Trotz der Verwendung von neuen Technologien und Sprachen haben wir uns sehr schnell daran gew&amp;ouml;hnt und damit arbeiten k&amp;ouml;nnen. Wir konnten ausserdem sehr gut im Team arbeiten und haben uns am ersten Tag des Realisierens gut organisieren k&amp;ouml;nnen.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Referenzen" mahara:positionx="0" mahara:positiony="282" mahara:height="19" mahara:width="12">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;&lt;strong&gt;KI:&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;F&amp;uuml;r Bugfixing und Problemsolving habe ich die Hilfe von Chat-GPT und Github Copilot verwendet.&lt;br \/&gt;Beispielsweise hat die Preview des Warenkorbes nicht funktioniert, was mit der Hilfe von diesen Chatbots gel&amp;ouml;st wurde.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Links" mahara:positionx="0" mahara:positiony="301" mahara:height="23" mahara:width="12">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;&lt;strong&gt;Github:&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;&lt;a href=\&quot;https:\/\/github.com\/timog06\/Dverggas\&quot;&gt;https:\/\/github.com\/timog06\/Dverggas&amp;nbsp;&lt;\/a&gt;&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Projektdokumentation:&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;&lt;a href=\&quot;https:\/\/github.com\/timog06\/Dverggas\/blob\/main\/Projektdokumentation2.md\&quot;&gt;https:\/\/github.com\/timog06\/Dverggas\/blob\/main\/Projektdokumentation2.md&lt;\/a&gt;&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>LA0110 Beanworld</title>
+        <id>portfolio:view35320</id>
+
+        <updated>2025-01-23T07:51:03+01:00</updated>
+        <published>2024-11-01T15:13:10+01:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div>Die Basisfunktionen eines 3D platform games in Unity</div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_218137"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_218137">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Aufgabenstellung
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_218137_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p><strong>Aufgabenstellung</strong></p>
+<p>Die Aufgabenstellung war, ein selbst gewähltes Projekt zu realisieren, dafür wurden uns 7 Wochen zur Verfügung gestellt. Ich und Samuel Lucena haben uns dazu entschieden, ein 3D-Plattformen-Spiel zu erstellen.</p>
+<p> </p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_218161"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_218161">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Ziele
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_218161_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Ich hatte bei diesem Projekt 4 Ziele an mich selbst gestellt:</p>
+<p><strong>Ziel 1:</strong> In Unity Spielermodelle und Blockmodelle implementieren können</p>
+<p><strong>Ziel 2:</strong> In Unity Hitboxen verwenden können</p>
+<p><strong>Ziel 3:</strong> In Unity den Spielprogress abspeichern und wieder aufrufen können</p>
+<p><strong>Ziel 4:</strong> In Unity Tasteninputs abfangen und verwenden können.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_218170"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_218170">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Demonstration
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_218170_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Wegen Speicherplatzproblemen, welche ich leider nicht auflösen konnte, muss ich diese Demonstration so schicken, dieser Link sollte ihnen erlauben die Demo zu sehen:<br /><a href="https://drive.google.com/file/d/1lxGsHm7FkD9vuIcFUCYWHWsDQViDAR93/view?usp=drive_link">https://drive.google.com/file/d/1lxGsHm7FkD9vuIcFUCYWHWsDQViDAR93/view?usp=drive_link</a></p>
+<p>0:10 Demonstration des quit out und respawn</p>
+<p>0:11 - 0:45 Demonstration des Parkours und Movement</p>
+<p>0:50 Demonstration des Sterbens und des Respawnen</p>
+<p>0:59 Demonstration des QUIT GAME welches das Spiel schliesst.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_218162"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_218162">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Produkt
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_218162_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p><strong>Beschreibung:</strong></p>
+<p>Beanworld ist ein 3D-Platforming game welches in der 3rd Person mit fliessendem Gameplay erstellt wurde. Man kann beliebig neu starten und das Game verlassen. Das Ganze ist sowohl auf Github verfügbar als auch als .exe ausführbares Programm im .zip zu downloaden.<br /><strong>Verwendete Technologien:</strong></p>
+<ul>
+<li>Unity Gameengine</li>
+<li>C# für die Scripts</li>
+<li>Blender für die Texturen</li>
+</ul>
+<p>Das Game wurde durch die Gameengine "Unity" ermöglicht, diese ist ein weltweit bekanntes und oft genutztes Tool zur Game-Entwicklung. C# ist die Sprache, welche für Unity Development verwendet wird und Blender ist eine 3D-Design Applikation.</p>
+<p><strong>Produktlink</strong></p>
+<p>Den .ZIP download finden sie in diesem Google Drive:<br /><a href="https://drive.google.com/file/d/11DRrzLuglJRo1K24aX8Pr4XoCKjbbWoH/view?usp=drive_link">https://drive.google.com/file/d/11DRrzLuglJRo1K24aX8Pr4XoCKjbbWoH/view?usp=drive_link</a><br />Den Github Link finden sie am Ende dieser Page.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_218175"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_218175">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Erkenntnisse
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_218175_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<ul>
+<li>Ich habe gelernt wie man Issues auf github verwendet, was uns bei der Zusammenarbeit während dem Sprachaufenthalt half was ich definitiv weiterhin so machen werde.</li>
+<li>Ich habe gelernt das Use-Case Diagramme um einiges flexibler sind wie PAP diagramme da sie bei Programmen wie Games sehr viel übersichtlicher sind.</li>
+<li>Ich habe herausgefunden das man mehrere Assets in Unity mit der gleichen Hitbox versehen kann indem man sie in der hirarchy auswählt und dann rechts die Hitboxen hinzufügt</li>
+<li>Ich habe gelernt das man in Unity zeichnen und Schreiben kann wie man im Main Menu sieht.</li>
+</ul>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_218172"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_218172">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Reflexion
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_218172_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p><strong>Reflexion:</strong></p>
+<p>Wir haben uns darauf fokussiert, ein stabiles und funktionierendes Spielerlebnis zu schaffen und haben das Leveldesign vernachlässigt.</p>
+<p><strong>Ablauf:</strong></p>
+<p>Wir begannen mit dem Erstellen des Githubs und dem Einrichten der Entwicklungsumgebung. Wir haben uns die zu vorstehende Arbeit aufgeteilt, ich habe den Fokus auf die 3rd Person Kamera und die Todesfunktion gehabt. Wir haben uns erst damit auseinandergesetzt, das Movement sowie die Kamera und die Todesfunktion zu erstellen, sobald dies einigermassen stabil war, habe ich angefangen, die Texturen zu erstellen, während Samuel die Funktionalitäten verfeinert hat.</p>
+<p><strong>Teamarbeit:<br /></strong></p>
+<p>Wir haben hauptsächlich von remote von Zuhause gearbeitet, wir haben via Discord kommuniziert und uns hauptsächlich auf unsere Arbeit fokussiert. Wenn wir für zu lange an einem Arbeitspaket steckengeblieben sind, haben wir uns zusammengesessen und probiert, die Blockade aufzulösen.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_218192"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_218192">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Verifizierung
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_218192_target">
+        
+        
+            
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_218177"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_218177">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        
+    
+
+    <div class="no-heading block" id="user_blockinstance_218177_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+
+<p><strong>Ziel 1:</strong></p>
+<p><strong><img width="1200" alt="" src="https://portfolio.bbbaden.ch/artefact/file/download.php?file=127562&amp;view=35320&amp;embedded=1&amp;text=218177" /></strong></p>
+
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_218178"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_218178">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        
+    
+
+    <div class="no-heading block" id="user_blockinstance_218178_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+
+<p><strong>Ziel 2:</strong></p>
+<p><img width="1128" alt="" src="https://portfolio.bbbaden.ch/artefact/file/download.php?file=127563&amp;view=35320&amp;embedded=1&amp;text=218178" /></p>
+
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_218179"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_218179">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        
+    
+
+    <div class="no-heading block" id="user_blockinstance_218179_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p><strong>Ziel 3:</strong></p>
+<p>Nicht implementiert.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_218180"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_218180">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        
+    
+
+    <div class="no-heading block" id="user_blockinstance_218180_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p><strong>Ziel 4</strong></p>
+<p> private void MovePlayer()<br /> {<br />     moveDirection = Orientation.forward * VerticalInput + Orientation.right * HorizontalInput;</p>
+<p>     // on ground<br />     if (grounded)<br />     {<br />         rb.AddForce(moveDirection.normalized * moveSpeed * 10f, ForceMode.Force);<br />     }<br />     // in air<br />     else if (!grounded)<br />     {<br />         rb.AddForce(moveDirection.normalized * moveSpeed * 10f * airMultiplier, ForceMode.Force);<br />     }<br /> }</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_218181"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_218181">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Referenzen
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_218181_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>YouTube für 3rd Person Kamera:<br /><a href="https://www.youtube.com/watch?v=UCwwn2q4Vys">https://www.youtube.com/watch?v=UCwwn2q4Vys</a><br />von 0:10 bis 4:50</p>
+<p>ChatGPT für manche Fehlermeldungen und generelle Bugs.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_218182"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_218182">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Github
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_218182_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Hier finden sie unsere Dokumentation sowie unseren Source Code</p>
+<p>Link:</p>
+<p><a href="https://github.com/choasfrie/3DPlatformer/tree/main">https://github.com/choasfrie/3DPlatformer/tree/main</a> </p>
+</div>
+
+
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="portfolio" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Aufgabenstellung" mahara:positionx="0" mahara:positiony="0" mahara:height="31" mahara:width="4">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;&lt;strong&gt;Aufgabenstellung&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;Die Aufgabenstellung war, ein selbst gew&amp;auml;hltes Projekt zu realisieren, daf&amp;uuml;r wurden uns 7 Wochen zur Verf&amp;uuml;gung gestellt. Ich und Samuel Lucena haben uns dazu entschieden, ein 3D-Plattformen-Spiel zu erstellen.&lt;\/p&gt;\r\n&lt;p&gt;&amp;nbsp;&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Ziele" mahara:positionx="4" mahara:positiony="0" mahara:height="27" mahara:width="8">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Ich hatte bei diesem Projekt 4 Ziele an mich selbst gestellt:&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Ziel 1:&lt;\/strong&gt;&amp;nbsp;In Unity Spielermodelle und Blockmodelle implementieren k&amp;ouml;nnen&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Ziel 2:&lt;\/strong&gt;&amp;nbsp;In Unity Hitboxen verwenden k&amp;ouml;nnen&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Ziel 3:&lt;\/strong&gt;&amp;nbsp;In Unity den Spielprogress abspeichern und wieder aufrufen k&amp;ouml;nnen&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Ziel 4:&lt;\/strong&gt;&amp;nbsp;In Unity Tasteninputs abfangen und verwenden k&amp;ouml;nnen.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Demonstration" mahara:positionx="7" mahara:positiony="27" mahara:height="52" mahara:width="4">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Wegen Speicherplatzproblemen, welche ich leider nicht aufl&amp;ouml;sen konnte, muss ich diese Demonstration so schicken, dieser Link sollte ihnen erlauben die Demo zu sehen:&lt;br \/&gt;&lt;a href=\&quot;https:\/\/drive.google.com\/file\/d\/1lxGsHm7FkD9vuIcFUCYWHWsDQViDAR93\/view?usp=drive_link\&quot;&gt;https:\/\/drive.google.com\/file\/d\/1lxGsHm7FkD9vuIcFUCYWHWsDQViDAR93\/view?usp=drive_link&lt;\/a&gt;&lt;\/p&gt;\r\n&lt;p&gt;0:10 Demonstration des quit out und respawn&lt;\/p&gt;\r\n&lt;p&gt;0:11 - 0:45 Demonstration des Parkours und Movement&lt;\/p&gt;\r\n&lt;p&gt;0:50 Demonstration des Sterbens und des Respawnen&lt;\/p&gt;\r\n&lt;p&gt;0:59 Demonstration des QUIT GAME welches das Spiel schliesst.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Produkt" mahara:positionx="0" mahara:positiony="31" mahara:height="53" mahara:width="7">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;&lt;strong&gt;Beschreibung:&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;Beanworld ist ein 3D-Platforming game welches in der 3rd Person mit fliessendem Gameplay erstellt wurde. Man kann beliebig neu starten und das Game verlassen. Das Ganze ist sowohl auf Github verf&amp;uuml;gbar als auch als .exe ausf&amp;uuml;hrbares Programm im .zip zu downloaden.&lt;br \/&gt;&lt;strong&gt;Verwendete Technologien:&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Unity Gameengine&lt;\/li&gt;\r\n&lt;li&gt;C# f&amp;uuml;r die Scripts&lt;\/li&gt;\r\n&lt;li&gt;Blender f&amp;uuml;r die Texturen&lt;\/li&gt;\r\n&lt;\/ul&gt;\r\n&lt;p&gt;Das Game wurde durch die Gameengine \&quot;Unity\&quot; erm&amp;ouml;glicht, diese ist ein weltweit bekanntes und oft genutztes Tool zur Game-Entwicklung. C# ist die Sprache, welche f&amp;uuml;r Unity Development verwendet wird und Blender ist eine 3D-Design Applikation.&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Produktlink&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;Den .ZIP download finden sie in diesem Google Drive:&lt;br \/&gt;&lt;a href=\&quot;https:\/\/drive.google.com\/file\/d\/11DRrzLuglJRo1K24aX8Pr4XoCKjbbWoH\/view?usp=drive_link\&quot;&gt;https:\/\/drive.google.com\/file\/d\/11DRrzLuglJRo1K24aX8Pr4XoCKjbbWoH\/view?usp=drive_link&lt;\/a&gt;&lt;br \/&gt;Den Github Link finden sie am Ende dieser Page.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Erkenntnisse" mahara:positionx="7" mahara:positiony="79" mahara:height="56" mahara:width="4">
+                
+                    
+                    <mahara:text>[&quot;&lt;ul&gt;\r\n&lt;li&gt;Ich habe gelernt wie man Issues auf github verwendet, was uns bei der Zusammenarbeit w&amp;auml;hrend dem Sprachaufenthalt half was ich definitiv weiterhin so machen werde.&lt;\/li&gt;\r\n&lt;li&gt;Ich habe gelernt das Use-Case Diagramme um einiges flexibler sind wie PAP diagramme da sie bei Programmen wie Games sehr viel &amp;uuml;bersichtlicher sind.&lt;\/li&gt;\r\n&lt;li&gt;Ich habe herausgefunden das man mehrere Assets in Unity mit der gleichen Hitbox versehen kann indem man sie in der hirarchy ausw&amp;auml;hlt und dann rechts die Hitboxen hinzuf&amp;uuml;gt&lt;\/li&gt;\r\n&lt;li&gt;Ich habe gelernt das man in Unity zeichnen und Schreiben kann wie man im Main Menu sieht.&lt;\/li&gt;\r\n&lt;\/ul&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Reflexion" mahara:positionx="0" mahara:positiony="84" mahara:height="51" mahara:width="7">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;&lt;strong&gt;Reflexion:&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;Wir haben uns darauf fokussiert, ein stabiles und funktionierendes Spielerlebnis zu schaffen und haben das Leveldesign vernachl&amp;auml;ssigt.&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Ablauf:&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;Wir begannen mit dem Erstellen des Githubs und dem Einrichten der Entwicklungsumgebung. Wir haben uns die zu vorstehende Arbeit aufgeteilt, ich habe den Fokus auf die 3rd Person Kamera und die Todesfunktion gehabt. Wir haben uns erst damit auseinandergesetzt, das Movement sowie die Kamera und die Todesfunktion zu erstellen, sobald dies einigermassen stabil war, habe ich angefangen, die Texturen zu erstellen, w&amp;auml;hrend Samuel die Funktionalit&amp;auml;ten verfeinert hat.&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Teamarbeit:&lt;br \/&gt;&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;Wir haben haupts&amp;auml;chlich von remote von Zuhause gearbeitet, wir haben via Discord kommuniziert und uns haupts&amp;auml;chlich auf unsere Arbeit fokussiert. Wenn wir f&amp;uuml;r zu lange an einem Arbeitspaket steckengeblieben sind, haben wir uns zusammengesessen und probiert, die Blockade aufzul&amp;ouml;sen.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Verifizierung" mahara:positionx="0" mahara:positiony="135" mahara:height="9" mahara:width="12">
+                
+                    
+                    <mahara:text></mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="" mahara:positionx="0" mahara:positiony="144" mahara:height="43" mahara:width="4">
+                
+                    
+                    <mahara:text>[&quot;\n&lt;p&gt;&lt;strong&gt;Ziel 1:&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;img width=\&quot;1200\&quot; height=\&quot;\&quot; style=\&quot;\&quot; alt=\&quot;\&quot; src=\&quot;https:\/\/portfolio.bbbaden.ch\/artefact\/file\/download.php?file=127562&amp;amp;embedded=1&amp;amp;text=218177\&quot;&gt;&lt;\/strong&gt;&lt;\/p&gt;\n&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="" mahara:positionx="4" mahara:positiony="144" mahara:height="43" mahara:width="4">
+                
+                    
+                    <mahara:text>[&quot;\n&lt;p&gt;&lt;strong&gt;Ziel 2:&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;&lt;img width=\&quot;1128\&quot; height=\&quot;\&quot; style=\&quot;\&quot; alt=\&quot;\&quot; src=\&quot;https:\/\/portfolio.bbbaden.ch\/artefact\/file\/download.php?file=127563&amp;amp;embedded=1&amp;amp;text=218178\&quot;&gt;&lt;\/p&gt;\n&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="" mahara:positionx="8" mahara:positiony="144" mahara:height="43" mahara:width="4">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;&lt;strong&gt;Ziel 3:&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;Nicht implementiert.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="" mahara:positionx="0" mahara:positiony="187" mahara:height="49" mahara:width="12">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;&lt;strong&gt;Ziel 4&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;&amp;nbsp;private void MovePlayer()&lt;br \/&gt;&amp;nbsp;{&lt;br \/&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;moveDirection = Orientation.forward * VerticalInput + Orientation.right * HorizontalInput;&lt;\/p&gt;\r\n&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;\/\/ on ground&lt;br \/&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;if (grounded)&lt;br \/&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;{&lt;br \/&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;rb.AddForce(moveDirection.normalized * moveSpeed * 10f, ForceMode.Force);&lt;br \/&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;}&lt;br \/&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;\/\/ in air&lt;br \/&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;else if (!grounded)&lt;br \/&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;{&lt;br \/&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;rb.AddForce(moveDirection.normalized * moveSpeed * 10f * airMultiplier, ForceMode.Force);&lt;br \/&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;}&lt;br \/&gt;&amp;nbsp;}&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Referenzen" mahara:positionx="0" mahara:positiony="236" mahara:height="24" mahara:width="12">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;YouTube f&amp;uuml;r 3rd Person Kamera:&lt;br \/&gt;&lt;a href=\&quot;https:\/\/www.youtube.com\/watch?v=UCwwn2q4Vys\&quot;&gt;https:\/\/www.youtube.com\/watch?v=UCwwn2q4Vys&lt;\/a&gt;&lt;br \/&gt;von 0:10 bis 4:50&lt;\/p&gt;\r\n&lt;p&gt;ChatGPT f&amp;uuml;r manche Fehlermeldungen und generelle Bugs.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Github" mahara:positionx="0" mahara:positiony="260" mahara:height="17" mahara:width="12">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Hier finden sie unsere Dokumentation sowie unseren Source Code&lt;\/p&gt;\r\n&lt;p&gt;Link:&lt;\/p&gt;\r\n&lt;p&gt;&lt;a href=\&quot;https:\/\/github.com\/choasfrie\/3DPlatformer\/tree\/main\&quot;&gt;https:\/\/github.com\/choasfrie\/3DPlatformer\/tree\/main&lt;\/a&gt;&amp;nbsp;&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>LA0130</title>
+        <id>portfolio:view36072</id>
+
+        <updated>2025-05-04T22:44:18+02:00</updated>
+        <published>2025-03-07T13:32:31+01:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div>Projektportfolio für das 3te Lernatelier Projekt</div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_222958"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_222958">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Ziele
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_222958_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p><span style="font-family:'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:400;letter-spacing:normal;text-align:left;text-indent:0px;text-transform:none;word-spacing:0px;float:none;">Meine Ziele für dieses Projekt waren:</span></p>
+<p><span style="font-family:'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:400;letter-spacing:normal;text-align:left;text-indent:0px;text-transform:none;word-spacing:0px;float:none;">1. Ich kann mithilfe eines PaaS eine webseite hosten <br />2. Ich kann mit node.js daten abspeichern und abrufen <br /></span><span style="font-family:'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:400;letter-spacing:normal;text-align:left;text-indent:0px;text-transform:none;word-spacing:0px;float:none;">3. Ich kann mit Socket.io zwischen Client und Server Kommunizieren</span></p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_222960"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_222960">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Aufgabenstellung
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_222960_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Die Aufgabenstellung war, ein selbst gewähltes Projekt in 7 Wochen zu implementieren. Unsere Gruppe hat sich dazu entschieden ein Multiuser-Chattingprogramm mit node.js zu erstellen</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_222970"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_222970">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Produkt
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_222970_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p><strong>Produktbeschrieb</strong></p>
+<p>ChatMate ist ein kleines Chatprogramm, das es verschiedenen Benutzern ermöglicht, über die P2P-Methode miteinander zu kommunizieren.</p>
+<p><strong>Technische Details</strong><br />ChatMate wurde entwickelt, um die Kommunikation einfacher und schneller zu machen. HTML5 und CSS3 wurden für das Design und das Front-End des Programms verwendet. Node.js wurde für den Server verwendet und JS wurde für die Logik unseres Projekts, sowie die Verbindung mit dem Server verwendet.</p>
+<p><strong>Produktlink<br /><br /></strong>Das Produkt befindet sich im GitHub, den Link finden sie am Ende der Page</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_223012"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_223012">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Demonstrationsvideo
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_223012_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Demonstrationsvideo befindet sich wegen fehlendem Speicherplatz in einem Google Drive, dieser Link sollte sie zum video bringen:<br /><a href="https://drive.google.com/file/d/1F1RpDQv3MmNQ8etAzUXsdt3gHAH530cM/view?usp=drive_link">https://drive.google.com/file/d/1F1RpDQv3MmNQ8etAzUXsdt3gHAH530cM/view?usp=drive_link</a><br /><br /></p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_223013"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_223013">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Verifizierung
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_223013_target">
+        
+        
+            
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_223028"><div class="bt-image gridstackblock card card-secondary clearfix" id="user_blockinstance_223028">
+        
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Ziel 1
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_223028_target">
+        
+        
+            
+        
+    </div>
+</div>
+</div><div id="user_block_223073"><div class="bt-image gridstackblock card card-secondary clearfix" id="user_blockinstance_223073">
+        
+        <div class="block-header d-none details-comments">
+    
+        
+        <a class="commentlink" href="#" title="">
+        
+            
+                <span class="icon icon-plus" title="Comments and details"></span>
+                Add comment
+                <span class="bh-margin-left icon icon-search-plus"></span>
+                Details
+            
+        
+        </a>
+    
+</div>
+
+    
+    
+        
+    
+
+    <div class="no-heading block" id="user_blockinstance_223073_target">
+        
+        
+            <div class="imageblock card-body">
+    <div class="image">
+        
+            <a class="modal_link" href="#">
+            
+                <img rel="leap2:has_part" href="portfolio:artefact131120" alt="" />
+            
+            </a>
+        
+    </div>
+</div>
+        
+    </div>
+</div>
+</div><div id="user_block_223029"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_223029">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        
+    
+
+    <div class="no-heading block" id="user_blockinstance_223029_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>In diesem Screenshot sieht man wie die Webseite mithilfe von Vercel gehostet wird.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_223032"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_223032">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Ziel 2
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_223032_target">
+        
+        
+            
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_223033"><div class="bt-image gridstackblock card card-secondary clearfix" id="user_blockinstance_223033">
+        
+        <div class="block-header d-none details-comments">
+    
+        
+        <a class="commentlink" href="#" title="">
+        
+            
+                <span class="icon icon-plus" title="Comments and details"></span>
+                Add comment
+                <span class="bh-margin-left icon icon-search-plus"></span>
+                Details
+            
+        
+        </a>
+    
+</div>
+
+    
+    
+        
+    
+
+    <div class="no-heading block" id="user_blockinstance_223033_target">
+        
+        
+            <div class="imageblock card-body">
+    <div class="image">
+        
+            <a class="modal_link" href="#">
+            
+                <img rel="leap2:has_part" href="portfolio:artefact131091" alt="" />
+            
+            </a>
+        
+    </div>
+</div>
+        
+    </div>
+</div>
+</div><div id="user_block_223040"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_223040">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        
+    
+
+    <div class="no-heading block" id="user_blockinstance_223040_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Hier sieht man wie wir im Code die Chat-History ins Local Storage abspeichern und abrufen, der Code befindet sich im master branch, public/script.js Zeile 59-69</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_223042"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_223042">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Ziel 3
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_223042_target">
+        
+        
+            
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_223044"><div class="bt-image gridstackblock card card-secondary clearfix" id="user_blockinstance_223044">
+        
+        <div class="block-header d-none details-comments">
+    
+        
+        <a class="commentlink" href="#" title="">
+        
+            
+                <span class="icon icon-plus" title="Comments and details"></span>
+                Add comment
+                <span class="bh-margin-left icon icon-search-plus"></span>
+                Details
+            
+        
+        </a>
+    
+</div>
+
+    
+    
+        
+    
+
+    <div class="no-heading block" id="user_blockinstance_223044_target">
+        
+        
+            <div class="imageblock card-body">
+    <div class="image">
+        
+            <a class="modal_link" href="#">
+            
+                <img rel="leap2:has_part" href="portfolio:artefact131092" alt="" />
+            
+            </a>
+        
+    </div>
+</div>
+        
+    </div>
+</div>
+</div><div id="user_block_223043"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_223043">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        
+    
+
+    <div class="no-heading block" id="user_blockinstance_223043_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Hier sieht man die Verbindung zwischen dem Client und dem Server,</p>
+<ul>
+<li>Der Client verbindet sich mit <code>const socket = io();</code> zum Server.</li>
+<li>Der Server erkennt neue Verbindungen mit <code>io.on("connection", (socket) =&gt; {...})</code>.</li>
+<li>Nachrichten werden vom Client mit <code>socket.emit("chat message", data);</code> gesendet.</li>
+<li>Der Server empfängt die Nachricht und sendet sie mit <code>io.emit("chat message", data);</code> an alle verbundenen Clients.</li>
+<li>Die Clients empfangen die Nachricht mit <code>socket.on("chat message", (data) =&gt; {...})</code> und zeigen sie an</li>
+</ul>
+<p> </p>
+<p>Der Code befindet sich im master branch unter server.js</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_223058"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_223058">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Reflexion
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_223058_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p><strong>Was lief gut?<br /></strong>Wir konnten die Planung von jedem Tag genau verfolgen und hatten nie zeitlichen Stress. <br /><br /><strong>Was lief nicht gut?<br /></strong>Die Verwendung von Branches zur abtrennung von Arbeiten, das verwenden von IP Hosting anstelle von GitHub hosting. Das starten des Programmes hat bei mir für einige Zeit nicht funktioniert was an node problemen lag, dies kostete mich einige Zeit vom Arbeiten mit den Funktionen</p>
+<p><strong>Verbesserungsvorschläge<br /></strong>Richtiges Installieren aller notwendigen Programmen vor dem Beginn mit der Arbeit, sich an den Plan halten um mögliche Komplikationen halten, auch wenn es bei diesem Projekt keine Probleme erzeugte.</p>
+<p><strong>Fazit<br /></strong>Die Planung bei diesem Projekt war gut und schlecht, wir haben die Zeitplanung sehr gut verwendet, jedoch einige geplante dinge kurzzeitig abgeändert wie z.B. das Hosten auf GitHub</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_223069"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_223069">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Links
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_223069_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p><strong>GitHub:<br /></strong><a href="https://github.com/x5mii/ChatMate/tree/main">https://github.com/x5mii/ChatMate/tree/main</a><br /><br /></p>
+<p>Projektdokumentation befindet sich im verlinkten branch, den funktionierenden Code finden sie im master branch</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="leap2:has_part" href="portfolio:artefact131092"/>
+        <link rel="leap2:has_part" href="portfolio:artefact131091"/>
+        <link rel="leap2:has_part" href="portfolio:artefact131120"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="portfolio" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Ziele" mahara:positionx="0" mahara:positiony="0" mahara:height="22" mahara:width="6">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;&lt;span style=\&quot;font-family: &#039;gg sans&#039;, &#039;Noto Sans&#039;, &#039;Helvetica Neue&#039;, Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; float: none;\&quot;&gt;Meine Ziele f&amp;uuml;r dieses Projekt waren:&lt;\/span&gt;&lt;\/p&gt;\r\n&lt;p&gt;&lt;span style=\&quot;font-family: &#039;gg sans&#039;, &#039;Noto Sans&#039;, &#039;Helvetica Neue&#039;, Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; float: none;\&quot;&gt;1. Ich kann mithilfe eines PaaS eine webseite hosten &lt;br \/&gt;2. Ich kann mit node.js daten abspeichern und abrufen &lt;br \/&gt;&lt;\/span&gt;&lt;span style=\&quot;font-family: &#039;gg sans&#039;, &#039;Noto Sans&#039;, &#039;Helvetica Neue&#039;, Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; float: none;\&quot;&gt;3. Ich kann mit Socket.io zwischen Client und Server Kommunizieren&lt;\/span&gt;&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Aufgabenstellung" mahara:positionx="6" mahara:positiony="0" mahara:height="22" mahara:width="6">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Die Aufgabenstellung war, ein selbst gew&amp;auml;hltes Projekt in 7 Wochen zu implementieren. Unsere Gruppe hat sich dazu entschieden ein Multiuser-Chattingprogramm mit node.js zu erstellen&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Produkt" mahara:positionx="0" mahara:positiony="22" mahara:height="50" mahara:width="5">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;&lt;strong&gt;Produktbeschrieb&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;ChatMate ist ein kleines Chatprogramm, das es verschiedenen Benutzern erm&amp;ouml;glicht, &amp;uuml;ber die P2P-Methode miteinander zu kommunizieren.&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Technische Details&lt;\/strong&gt;&lt;br \/&gt;ChatMate wurde entwickelt, um die Kommunikation einfacher und schneller zu machen. HTML5 und CSS3 wurden f&amp;uuml;r das Design und das Front-End des Programms verwendet. Node.js wurde f&amp;uuml;r den Server verwendet und JS wurde f&amp;uuml;r die Logik unseres Projekts, sowie die Verbindung mit dem Server verwendet.&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Produktlink&lt;br \/&gt;&lt;br \/&gt;&lt;\/strong&gt;Das Produkt befindet sich im GitHub, den Link finden sie am Ende der Page&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Demonstrationsvideo" mahara:positionx="5" mahara:positiony="22" mahara:height="49" mahara:width="7">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Demonstrationsvideo befindet sich wegen fehlendem Speicherplatz in einem Google Drive, dieser Link sollte sie zum video bringen:&lt;br \/&gt;https:\/\/drive.google.com\/file\/d\/1F1RpDQv3MmNQ8etAzUXsdt3gHAH530cM\/view?usp=drive_link&lt;br \/&gt;&lt;br \/&gt;&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Verifizierung" mahara:positionx="0" mahara:positiony="72" mahara:height="8" mahara:width="12">
+                
+                    
+                    <mahara:text></mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="image" mahara:blocktitle="Ziel 1" mahara:positionx="0" mahara:positiony="80" mahara:height="8" mahara:width="12">
+                
+                    
+                    <mahara:artefactid></mahara:artefactid>
+                    
+                
+                    
+                    <mahara:showdescription>[false]</mahara:showdescription>
+                    
+                
+                    
+                    <mahara:width>[&quot;&quot;]</mahara:width>
+                    
+                
+                    
+                    <mahara:retractable>[0]</mahara:retractable>
+                    
+                
+                    
+                    <mahara:retractedonload>[0]</mahara:retractedonload>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="image" mahara:blocktitle="" mahara:positionx="0" mahara:positiony="88" mahara:height="27" mahara:width="6">
+                
+                    
+                    <mahara:artefactid>[&quot;portfolio:artefact131120&quot;]</mahara:artefactid>
+                    
+                
+                    
+                    <mahara:showdescription>[false]</mahara:showdescription>
+                    
+                
+                    
+                    <mahara:width>[&quot;&quot;]</mahara:width>
+                    
+                
+                    
+                    <mahara:retractable>[0]</mahara:retractable>
+                    
+                
+                    
+                    <mahara:retractedonload>[0]</mahara:retractedonload>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="" mahara:positionx="6" mahara:positiony="88" mahara:height="26" mahara:width="6">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;In diesem Screenshot sieht man wie die Webseite mithilfe von Vercel gehostet wird.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Ziel 2" mahara:positionx="0" mahara:positiony="115" mahara:height="9" mahara:width="12">
+                
+                    
+                    <mahara:text></mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="image" mahara:blocktitle="" mahara:positionx="0" mahara:positiony="124" mahara:height="33" mahara:width="6">
+                
+                    
+                    <mahara:artefactid>[&quot;portfolio:artefact131091&quot;]</mahara:artefactid>
+                    
+                
+                    
+                    <mahara:showdescription>[false]</mahara:showdescription>
+                    
+                
+                    
+                    <mahara:width>[&quot;&quot;]</mahara:width>
+                    
+                
+                    
+                    <mahara:retractable>[0]</mahara:retractable>
+                    
+                
+                    
+                    <mahara:retractedonload>[0]</mahara:retractedonload>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="" mahara:positionx="6" mahara:positiony="124" mahara:height="33" mahara:width="6">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Hier sieht man wie wir im Code die Chat-History ins Local Storage abspeichern und abrufen, der Code befindet sich im master branch, public\/script.js Zeile 59-69&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Ziel 3" mahara:positionx="0" mahara:positiony="157" mahara:height="9" mahara:width="12">
+                
+                    
+                    <mahara:text></mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="image" mahara:blocktitle="" mahara:positionx="0" mahara:positiony="166" mahara:height="75" mahara:width="5">
+                
+                    
+                    <mahara:artefactid>[&quot;portfolio:artefact131092&quot;]</mahara:artefactid>
+                    
+                
+                    
+                    <mahara:showdescription>[false]</mahara:showdescription>
+                    
+                
+                    
+                    <mahara:width>[&quot;&quot;]</mahara:width>
+                    
+                
+                    
+                    <mahara:retractable>[0]</mahara:retractable>
+                    
+                
+                    
+                    <mahara:retractedonload>[0]</mahara:retractedonload>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="" mahara:positionx="5" mahara:positiony="166" mahara:height="74" mahara:width="7">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Hier sieht man die Verbindung zwischen dem Client und dem Server,&lt;\/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Der Client verbindet sich mit &lt;code&gt;const socket = io();&lt;\/code&gt; zum Server.&lt;\/li&gt;\r\n&lt;li&gt;Der Server erkennt neue Verbindungen mit &lt;code&gt;io.on(\&quot;connection\&quot;, (socket) =&amp;gt; {...})&lt;\/code&gt;.&lt;\/li&gt;\r\n&lt;li&gt;Nachrichten werden vom Client mit &lt;code&gt;socket.emit(\&quot;chat message\&quot;, data);&lt;\/code&gt; gesendet.&lt;\/li&gt;\r\n&lt;li&gt;Der Server empf&amp;auml;ngt die Nachricht und sendet sie mit &lt;code&gt;io.emit(\&quot;chat message\&quot;, data);&lt;\/code&gt; an alle verbundenen Clients.&lt;\/li&gt;\r\n&lt;li&gt;Die Clients empfangen die Nachricht mit &lt;code&gt;socket.on(\&quot;chat message\&quot;, (data) =&amp;gt; {...})&lt;\/code&gt; und zeigen sie an&lt;\/li&gt;\r\n&lt;\/ul&gt;\r\n&lt;p&gt;&amp;nbsp;&lt;\/p&gt;\r\n&lt;p&gt;Der Code befindet sich im master branch unter server.js&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Reflexion" mahara:positionx="0" mahara:positiony="241" mahara:height="42" mahara:width="12">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;&lt;strong&gt;Was lief gut?&lt;br \/&gt;&lt;\/strong&gt;Wir konnten die Planung von jedem Tag genau verfolgen und hatten nie zeitlichen Stress. &lt;br \/&gt;&lt;br \/&gt;&lt;strong&gt;Was lief nicht gut?&lt;br \/&gt;&lt;\/strong&gt;Die Verwendung von Branches zur abtrennung von Arbeiten, das verwenden von IP Hosting anstelle von GitHub hosting. Das starten des Programmes hat bei mir f&amp;uuml;r einige Zeit nicht funktioniert was an node problemen lag, dies kostete mich einige Zeit vom Arbeiten mit den Funktionen&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Verbesserungsvorschl&amp;auml;ge&lt;br \/&gt;&lt;\/strong&gt;Richtiges Installieren aller notwendigen Programmen vor dem Beginn mit der Arbeit, sich an den Plan halten um m&amp;ouml;gliche Komplikationen halten, auch wenn es bei diesem Projekt keine Probleme erzeugte.&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Fazit&lt;br \/&gt;&lt;\/strong&gt;Die Planung bei diesem Projekt war gut und schlecht, wir haben die Zeitplanung sehr gut verwendet, jedoch einige geplante dinge kurzzeitig abge&amp;auml;ndert wie z.B. das Hosten auf GitHub&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Links" mahara:positionx="0" mahara:positiony="283" mahara:height="18" mahara:width="12">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;&lt;strong&gt;GitHub:&lt;br \/&gt;&lt;\/strong&gt;&lt;a href=\&quot;https:\/\/github.com\/x5mii\/ChatMate\/tree\/main\&quot;&gt;https:\/\/github.com\/x5mii\/ChatMate\/tree\/main&lt;\/a&gt;&lt;br \/&gt;&lt;br \/&gt;&lt;\/p&gt;\r\n&lt;p&gt;Projektdokumentation befindet sich im verlinkten branch, den funktionierenden Code finden sie im master branch&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>LA1303 Komprimierung</title>
+        <id>portfolio:view33750</id>
+
+        <updated>2024-06-25T19:01:02+02:00</updated>
+        <published>2024-03-01T10:38:37+01:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div>Ein Komprimierungsprogramm erstellt mit Powershell in Partnerarbeit mit Lucena Samuel</div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_207424"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_207424">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Ziele
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_207424_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p><strong>Meine Ziele bei diesem Projekt:</strong></p>
+<p>- Vertiefung des Moduls 114 durch Erstellen eines Programmes welches Komprimiert</p>
+<p>- Vertiefung von Scriptsprachen wie PowerShell</p>
+<p>- Erstellen eines nützlichen Programmes</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_207425"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_207425">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Aufgabenstellung
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_207425_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Die Aufgabenstellung war ein Projekt mitsamt Projektdokumentation zu erstellen. Dabei gab es vieles zur Auswahl, wir haben vom Modul 114 das Komprimierung-Projekt gewählt, bei welchem man ein Programm erstellt, welches.</p>
+<p>- Komprimieren kann<br />- Dekomprimieren kann.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_207429"><div class="bt-internalmedia gridstackblock card card-secondary clearfix" id="user_blockinstance_207429">
+        
+        <div class="block-header d-none details-comments">
+    
+        
+        <a class="detailslink modal_link list-group-heading" href="#" title="Details">
+            <span class="icon icon-search-plus bh-details-only" title="Details"></span>
+            
+                Details
+            
+        </a>
+    
+</div>
+
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Komprimieren
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_207429_target">
+        
+        
+            <div class="mediaplayer-container card-body flush"><div class="mediaplayer">
+        
+            
+            Your web browser cannot play this media file.
+        </div></div>
+
+        
+    </div>
+</div>
+</div><div id="user_block_207427"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_207427">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Das Produkt
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_207427_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Das Produkt ist ein mit PowerShell erstelltes Programm bei dem man die folgenden Optionen hat:</p>
+<p>- Ein selbst gewählten Ordner zu Komprimieren<br />- Ein selbst gewählten Ordner zu entpacken<br />- Die Zielorte der vorherigen Funktionen können sie selbst auswählen.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_207433"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_207433">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Reflexion
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_207433_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p><strong>Gut gelaufen:</strong></p>
+<p>Bei diesem Projekt habe ich probiert organisierter zu arbeiten, da es bei den letzten paar Projekten nicht sehr gut gelaufen ist. Die Planung des Projektes sowie das Aufteilen der Arbeitspakete sind sehr viel besser gelaufen, was ich bei den nachfolgenden Projekten auch so beibehalten will. </p>
+<p><strong>Schlechter:</strong></p>
+<p>Schlechter gelaufen ist das Programmieren, da wir am ersten Tag Probleme mit den Funktionen zum Komprimieren hatten. Deshalb mussten wir von ein paar Webseiten und Tutorials erst lernen, wie dies überhaupt funktionierte.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_207430"><div class="bt-internalmedia gridstackblock card card-secondary clearfix" id="user_blockinstance_207430">
+        
+        <div class="block-header d-none details-comments">
+    
+        
+        <a class="detailslink modal_link list-group-heading" href="#" title="Details">
+            <span class="icon icon-search-plus bh-details-only" title="Details"></span>
+            
+                Details
+            
+        </a>
+    
+</div>
+
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Entpacken
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_207430_target">
+        
+        
+            <div class="mediaplayer-container card-body flush"><div class="mediaplayer">
+        
+            
+            Your web browser cannot play this media file.
+        </div></div>
+
+        
+    </div>
+</div>
+</div><div id="user_block_207435"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_207435">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Verifizierung
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_207435_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Die Planung und das aufteilen ist besser gelaufen, wie sie bei der Projektdokumentation sehen können, ausserdem sind wir dadurch rechtzeitig mit dem grossteil des Projektes fertig geworden.<br /><br /></p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_207432"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_207432">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Verweise
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_207432_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Github: <a href="https://github.com/albertomanser/LA1303">https://github.com/albertomanser/LA1303</a></p>
+</div>
+
+
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="leap2:has_part" href="portfolio:artefact118944"/>
+        <link rel="leap2:has_part" href="portfolio:artefact118943"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="portfolio" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Ziele" mahara:positionx="0" mahara:positiony="0" mahara:height="26" mahara:width="4">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;&lt;strong&gt;Meine Ziele bei diesem Projekt:&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;- Vertiefung des Moduls 114 durch Erstellen eines Programmes welches Komprimiert&lt;\/p&gt;\r\n&lt;p&gt;- Vertiefung von Scriptsprachen wie PowerShell&lt;\/p&gt;\r\n&lt;p&gt;- Erstellen eines n&amp;uuml;tzlichen Programmes&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Aufgabenstellung" mahara:positionx="4" mahara:positiony="0" mahara:height="26" mahara:width="8">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Die Aufgabenstellung war ein Projekt mitsamt Projektdokumentation zu erstellen. Dabei gab es vieles zur Auswahl, wir haben vom Modul 114 das Komprimierung-Projekt gew&amp;auml;hlt, bei welchem man ein Programm erstellt, welches.&lt;\/p&gt;\r\n&lt;p&gt;- Komprimieren kann&lt;br \/&gt;- Dekomprimieren kann.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="internalmedia" mahara:blocktitle="Komprimieren" mahara:positionx="0" mahara:positiony="26" mahara:height="46" mahara:width="7">
+                
+                    
+                    <mahara:artefactid>[&quot;portfolio:artefact118943&quot;]</mahara:artefactid>
+                    
+                
+                    
+                    <mahara:retractable>[0]</mahara:retractable>
+                    
+                
+                    
+                    <mahara:retractedonload>[0]</mahara:retractedonload>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Das Produkt" mahara:positionx="7" mahara:positiony="26" mahara:height="31" mahara:width="5">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Das Produkt ist ein mit PowerShell erstelltes Programm bei dem man die folgenden Optionen hat:&lt;\/p&gt;\r\n&lt;p&gt;- Ein selbst gew&amp;auml;hlten Ordner zu Komprimieren&lt;br \/&gt;- Ein selbst gew&amp;auml;hlten Ordner zu entpacken&lt;br \/&gt;- Die Zielorte der vorherigen Funktionen k&amp;ouml;nnen sie selbst ausw&amp;auml;hlen.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Reflexion" mahara:positionx="7" mahara:positiony="57" mahara:height="48" mahara:width="5">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;&lt;strong&gt;Gut gelaufen:&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;Bei diesem Projekt habe ich probiert organisierter zu arbeiten, da es bei den letzten paar Projekten nicht sehr gut gelaufen ist. Die Planung des Projektes sowie das Aufteilen der Arbeitspakete sind sehr viel besser gelaufen, was ich bei den nachfolgenden Projekten auch so beibehalten will.&amp;nbsp;&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Schlechter:&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;Schlechter gelaufen ist das Programmieren, da wir am ersten Tag Probleme mit den Funktionen zum Komprimieren hatten. Deshalb mussten wir von ein paar Webseiten und Tutorials erst lernen, wie dies &amp;uuml;berhaupt funktionierte.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="internalmedia" mahara:blocktitle="Entpacken" mahara:positionx="0" mahara:positiony="72" mahara:height="46" mahara:width="7">
+                
+                    
+                    <mahara:artefactid>[&quot;portfolio:artefact118944&quot;]</mahara:artefactid>
+                    
+                
+                    
+                    <mahara:retractable>[0]</mahara:retractable>
+                    
+                
+                    
+                    <mahara:retractedonload>[0]</mahara:retractedonload>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Verifizierung" mahara:positionx="7" mahara:positiony="105" mahara:height="29" mahara:width="5">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Die Planung und das aufteilen ist besser gelaufen, wie sie bei der Projektdokumentation sehen k&amp;ouml;nnen, ausserdem sind wir dadurch rechtzeitig mit dem grossteil des Projektes fertig geworden.&lt;br \/&gt;&lt;br \/&gt;&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Verweise" mahara:positionx="0" mahara:positiony="118" mahara:height="16" mahara:width="7">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Github: https:\/\/github.com\/albertomanser\/LA1303&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>LA1304</title>
+        <id>portfolio:view34049</id>
+
+        <updated>2024-06-27T02:19:40+02:00</updated>
+        <published>2024-05-03T20:07:55+02:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_209920"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_209920">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Ziele
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_209920_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p><strong>Meine Ziele bei diesem Projekt waren:</strong></p>
+<p>- Praktische Anwendung der Zahlensysteme aus dem Modul 114<br />- Wiederauffrischung von c# sowie Wiederauffrischung von WinForms</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_209922"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_209922">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Aufgabenstellung
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_209922_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Die Aufgabenstellung war ein Projekt deiner Wahl zu verwirklichen, zur Wahl standen mehrere Projekte zur vertiefung der Module<br />- 114<br />- 426<br />- 210<br />Oder ein selbst gewähltes Projekt.</p>
+<p>Unsere Gruppe hat sich dazu entschieden das Projekt Zahlensysteme zum Modul 114 zu verwirklichen, dieses Musste laut Auftrag</p>
+<p>- Zahlen von einem in das andere Zahlensystem rechnen können<br />- Benutzerfreundlich sein</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_209925"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_209925">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Produkt
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_209925_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Das Produkt ist ein c# Programm mit GUI in dem man von der folgenden Liste von Zahlensystemen auswählen konnte und beliebig umrechnen konnte.</p>
+<p>- Hexadezimal<br />- Binär<br />- Dezimal</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_209926"><div class="bt-filedownload gridstackblock card card-secondary clearfix" id="user_blockinstance_209926">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Produkt-download
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_209926_target">
+        
+        
+            <div class="file-download-list">
+    <div class="block-header d-none details-comments btn-top-right btn-group-top bh-displayiconsonly">
+    
+        
+        <a class="detailslink modal_link list-group-heading btn btn-secondary" href="#" title="Details">
+            <span class="icon icon-search-plus bh-details-only" title="Details"></span>
+            
+        </a>
+    
+</div>
+
+        
+            
+            <a class="modal_link file-icon-link" href="#" title="GreubManserLucena_LA1304.zip">
+                
+                    <span class="icon icon-archive icon-lg left text-default file-icon"></span>
+                
+            </a>
+            
+
+            <h3 class="title list-group-item-heading">
+            
+            <a class="modal_link" title="" href="#">
+                GreubManserLucena_LA1304.zip
+                <span class="visually-hidden">Details</span>
+            </a>
+            
+            </h3>
+
+            <a rel="leap2:has_part" href="portfolio:artefact120729" class="download-link">
+                <span class="icon icon-download icon-lg float-end text-watermark icon-action" title="Download GreubManserLucena_LA1304.zip [354.7KB]"></span>
+                <span class="visually-hidden">Download GreubManserLucena_LA1304.zip [354.7KB]}</span>
+            </a>
+
+            
+        
+        
+    
+</div>
+
+        
+    </div>
+</div>
+</div><div id="user_block_209927"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_209927">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Reflexion
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_209927_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p><strong>Gut gelaufen</strong></p>
+<p>Bei diesem Projekt hat unsere Gruppe mit Agilen entwicklungsmethoden gearbeitet, was das gemeinsame Arbeiten deutlich effizienter und einfacher gemacht hat, daher werde ich probieren dies nächstes mal wieder so zu machen.</p>
+<p><strong>Nicht gut gelaufen</strong></p>
+<p>Wir hatten ein paar mal Probleme mit dem Verwalten (lange Pause, an anderen Dingen gearbeitet) was zeitlich nicht sehr profitabel war, um potenzielle Zeitprobleme bei zukünftigen Projekten zu vermeiden werde ich versuchen einen Zeitmanagement Plan zu jedem Lernatelier Tag zu erstellen.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_209928"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_209928">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Verifikation
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_209928_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Wie sie beim Code sehen haben wir die Zahlensysteme vom Modul 114 praktisch eingesetzt und das Coden mit c# wieder aufgefrischt, sowie WinForms aufgefrischt.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_209929"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_209929">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-pencil-alt" title="Quick edit"></span>
+        Quick edit
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Verweise
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_209929_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p><strong>Dokumentation:</strong> <a href="https://github.com/x5mii/LA1304">https://github.com/x5mii/LA1304 </a></p>
+</div>
+
+
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="leap2:has_part" href="portfolio:artefact120729"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="portfolio" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Ziele" mahara:positionx="0" mahara:positiony="0" mahara:height="37" mahara:width="3">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;&lt;strong&gt;Meine Ziele bei diesem Projekt waren:&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;- Praktische Anwendung der Zahlensysteme aus dem Modul 114&lt;br \/&gt;- Wiederauffrischung von c# sowie Wiederauffrischung von WinForms&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Aufgabenstellung" mahara:positionx="3" mahara:positiony="0" mahara:height="37" mahara:width="9">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Die Aufgabenstellung war ein Projekt deiner Wahl zu verwirklichen, zur Wahl standen mehrere Projekte zur vertiefung der Module&lt;br \/&gt;- 114&lt;br \/&gt;- 426&lt;br \/&gt;- 210&lt;br \/&gt;Oder ein selbst gew&amp;auml;hltes Projekt.&lt;\/p&gt;\r\n&lt;p&gt;Unsere Gruppe hat sich dazu entschieden das Projekt Zahlensysteme zum Modul 114 zu verwirklichen, dieses Musste laut Auftrag&lt;\/p&gt;\r\n&lt;p&gt;- Zahlen von einem in das andere Zahlensystem rechnen k&amp;ouml;nnen&lt;br \/&gt;- Benutzerfreundlich sein&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Produkt" mahara:positionx="0" mahara:positiony="37" mahara:height="26" mahara:width="4">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Das Produkt ist ein c# Programm mit GUI in dem man von der folgenden Liste von Zahlensystemen ausw&amp;auml;hlen konnte und beliebig umrechnen konnte.&lt;\/p&gt;\r\n&lt;p&gt;- Hexadezimal&lt;br \/&gt;- Bin&amp;auml;r&lt;br \/&gt;- Dezimal&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="filedownload" mahara:blocktitle="Produkt-download" mahara:positionx="4" mahara:positiony="37" mahara:height="26" mahara:width="8">
+                
+                    
+                    <mahara:artefactids>[[&quot;portfolio:artefact120729&quot;]]</mahara:artefactids>
+                    
+                
+                    
+                    <mahara:retractable>[0]</mahara:retractable>
+                    
+                
+                    
+                    <mahara:retractedonload>[0]</mahara:retractedonload>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Reflexion" mahara:positionx="0" mahara:positiony="63" mahara:height="39" mahara:width="5">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;&lt;strong&gt;Gut gelaufen&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;Bei diesem Projekt hat unsere Gruppe mit Agilen entwicklungsmethoden gearbeitet, was das gemeinsame Arbeiten deutlich effizienter und einfacher gemacht hat, daher werde ich probieren dies n&amp;auml;chstes mal wieder so zu machen.&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Nicht gut gelaufen&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;Wir hatten ein paar mal Probleme mit dem Verwalten (lange Pause, an anderen Dingen gearbeitet) was zeitlich nicht sehr profitabel war, um potenzielle Zeitprobleme bei zuk&amp;uuml;nftigen Projekten zu vermeiden werde ich versuchen einen Zeitmanagement Plan zu jedem Lernatelier Tag zu erstellen.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Verifikation" mahara:positionx="5" mahara:positiony="63" mahara:height="18" mahara:width="7">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Wie sie beim Code sehen haben wir die Zahlensysteme vom Modul 114 praktisch eingesetzt und das Coden mit c# wieder aufgefrischt, sowie WinForms aufgefrischt.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Verweise" mahara:positionx="5" mahara:positiony="81" mahara:height="13" mahara:width="7">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;&lt;strong&gt;Dokumentation:&lt;\/strong&gt; &lt;a href=\&quot;https:\/\/github.com\/x5mii\/LA1304\&quot;&gt;https:\/\/github.com\/x5mii\/LA1304&amp;nbsp;&lt;\/a&gt;&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>2024-03-01_10-41-34_-_Trim.mp4.1</title>
+        <id>portfolio:artefact118943</id>
+
+        <updated>2024-03-01T10:59:09+01:00</updated>
+        <published>2024-03-01T10:59:09+01:00</published>
+
+
+
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="video" mahara:plugin="file"/>
+        <link rel="enclosure" type="video/mp4" href="export_info/files/118943-2024-03-01_10-41-34_-_Trim.mp4.1"/>
+        <link rel="leap2:is_part_of" href="portfolio:view33750"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>2024-03-01_10-49-34_-_Trim - Trim.mp4</title>
+        <id>portfolio:artefact118944</id>
+
+        <updated>2024-03-01T11:02:26+01:00</updated>
+        <published>2024-03-01T11:02:26+01:00</published>
+
+
+
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="video" mahara:plugin="file"/>
+        <link rel="enclosure" type="video/mp4" href="export_info/files/118944-2024-03-01_10-49-34_-_Trim - Trim.mp4"/>
+        <link rel="leap2:is_part_of" href="portfolio:view33750"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>GreubManserLucena_LA1304.zip</title>
+        <id>portfolio:artefact120729</id>
+
+        <updated>2024-05-03T20:20:26+02:00</updated>
+        <published>2024-05-03T20:20:26+02:00</published>
+
+
+
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="archive" mahara:plugin="file"/>
+        <link rel="enclosure" type="application/zip-compressed" href="export_info/files/120729-GreubManserLucena_LA1304.zip"/>
+        <link rel="leap2:is_part_of" href="portfolio:view34049"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>image_2024-12-20_144322557.png</title>
+        <id>portfolio:artefact129509</id>
+
+        <updated>2024-12-20T14:43:22+01:00</updated>
+        <published>2024-12-20T14:43:22+01:00</published>
+
+
+
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="image" mahara:plugin="file"/>
+        <link rel="enclosure" type="image/png" href="export_info/files/129509-image_2024-12-20_144322557.png"/>
+        <link rel="leap2:is_part_of" href="portfolio:view35840"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>image_2024-12-20_144734362.png</title>
+        <id>portfolio:artefact129515</id>
+
+        <updated>2024-12-20T14:47:34+01:00</updated>
+        <published>2024-12-20T14:47:34+01:00</published>
+
+
+
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="image" mahara:plugin="file"/>
+        <link rel="enclosure" type="image/png" href="export_info/files/129515-image_2024-12-20_144734362.png"/>
+        <link rel="leap2:is_part_of" href="portfolio:view35840"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>image_2024-12-20_144806096.png</title>
+        <id>portfolio:artefact129516</id>
+
+        <updated>2024-12-20T14:48:06+01:00</updated>
+        <published>2024-12-20T14:48:06+01:00</published>
+
+
+
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="image" mahara:plugin="file"/>
+        <link rel="enclosure" type="image/png" href="export_info/files/129516-image_2024-12-20_144806096.png"/>
+        <link rel="leap2:is_part_of" href="portfolio:view35840"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>image_2024-12-20_144942945.png</title>
+        <id>portfolio:artefact129517</id>
+
+        <updated>2024-12-20T14:49:43+01:00</updated>
+        <published>2024-12-20T14:49:43+01:00</published>
+
+
+
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="image" mahara:plugin="file"/>
+        <link rel="enclosure" type="image/png" href="export_info/files/129517-image_2024-12-20_144942945.png"/>
+        <link rel="leap2:is_part_of" href="portfolio:view35840"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>image_2024-12-20_145011245.png</title>
+        <id>portfolio:artefact129518</id>
+
+        <updated>2024-12-20T14:50:11+01:00</updated>
+        <published>2024-12-20T14:50:11+01:00</published>
+
+
+
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="image" mahara:plugin="file"/>
+        <link rel="enclosure" type="image/png" href="export_info/files/129518-image_2024-12-20_145011245.png"/>
+        <link rel="leap2:is_part_of" href="portfolio:view35840"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Screenshot 2025-03-07 153909.png</title>
+        <id>portfolio:artefact131091</id>
+
+        <updated>2025-03-07T15:40:42+01:00</updated>
+        <published>2025-03-07T15:40:42+01:00</published>
+
+
+
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="image" mahara:plugin="file"/>
+        <link rel="enclosure" type="image/png" href="export_info/files/131091-Screenshot 2025-03-07 153909.png"/>
+        <link rel="leap2:is_part_of" href="portfolio:view36072"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Screenshot 2025-03-07 154537.png</title>
+        <id>portfolio:artefact131092</id>
+
+        <updated>2025-03-07T15:45:59+01:00</updated>
+        <published>2025-03-07T15:45:59+01:00</published>
+
+
+
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="image" mahara:plugin="file"/>
+        <link rel="enclosure" type="image/png" href="export_info/files/131092-Screenshot 2025-03-07 154537.png"/>
+        <link rel="leap2:is_part_of" href="portfolio:view36072"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>93770720-6A0E-41DB-BE3D-9F3F426B28E5.png.1</title>
+        <id>portfolio:artefact131120</id>
+
+        <updated>2025-03-07T16:17:37+01:00</updated>
+        <published>2025-03-07T16:17:37+01:00</published>
+
+
+
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="image" mahara:plugin="file"/>
+        <link rel="enclosure" type="image/png" href="export_info/files/131120-93770720-6A0E-41DB-BE3D-9F3F426B28E5.png.1"/>
+        <link rel="leap2:is_part_of" href="portfolio:view36072"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+
+    </entry>
+
+
+</feed>
